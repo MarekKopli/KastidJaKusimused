@@ -35,8 +35,6 @@ write(boxen(chalk.blue.bgGreenBright('Hello chalk'), {
 write(boxen(chalk.blue.bgRedBright('Hello chalk'), {
     padding: 1,
     margin: 1,
-    title: 'põnev', 
-    titleAlignment: 'right'
 }));
 
 write(boxen(chalk.blue.bgBlackBright('Hello chalk'), {
