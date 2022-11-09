@@ -12,6 +12,6 @@ inquirer
     console.log(' I am ' + answer.age + ' years old');
     console.log(' I am ' + answer.how + '');
     console.log(' My favorite food is ' + answer.food + '');
-    console.log(' I am ' + answer.height + ' centimeters');
+    console.log(' I am ' + answer.height + ' centimeters tall ');
 })
 
